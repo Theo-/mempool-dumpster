@@ -522,6 +522,8 @@ github.com/matttproud/golang_protobuf_extensions v1.0.4 h1:mmDVorXM7PCGKw94cs5zk
 github.com/matttproud/golang_protobuf_extensions v1.0.4/go.mod h1:BSXmuO+STAnVfrANrmjBb36TMTDstsz7MSK+HVaYKv4=
 github.com/merkle3/merkle-sdk-go v0.13.0 h1:XflyAH0jNlnjgo6zY6G/nVK3v8BE3PwZkvJ4+2J1UVo=
 github.com/merkle3/merkle-sdk-go v0.13.0/go.mod h1:5uDa7v0wsfZ9B5Nx5ol2bCLuQjWlzMThDYpfrbvxCwE=
+github.com/merkle3/merkle-sdk-go v0.14.0 h1:Nq+inxNgTh+iGSCDvCfqLgHgVIzyay5JBuVmFyNLXjo=
+github.com/merkle3/merkle-sdk-go v0.14.0/go.mod h1:5uDa7v0wsfZ9B5Nx5ol2bCLuQjWlzMThDYpfrbvxCwE=
 github.com/minio/md5-simd v1.1.2/go.mod h1:MzdKDxYpY2BT9XQFocsiZf/NKVtR7nkE4RoEpN+20RM=
 github.com/minio/minio-go/v7 v7.0.34/go.mod h1:nCrRzjoSUQh8hgKKtu3Y708OLvRLtuASMg2/nvmbarw=
 github.com/minio/sha256-simd v1.0.0/go.mod h1:OuYzVNI5vcoYIAmbIvHPl3N3jUzVedXbKy5RFepssQM=
